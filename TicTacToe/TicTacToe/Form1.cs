@@ -12,7 +12,7 @@ namespace TicTacToe
 {
     public partial class Form1 : Form
     {
-        bool turn = true;//when true =x,false=Y turn
+        bool turn = true;//when true =x,false=Y turns
         int turn_count = 0;
         public Form1()
         {
